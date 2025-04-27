@@ -78,7 +78,7 @@ def crawl_articles(base_url):
 
 if __name__ == "__main__":
     input_file = "url.txt"
-    output_file = "articles5.xlsx"
+    output_file = "articles13.xlsx"
 
     if not os.path.exists(input_file):
         print(f"Không tìm thấy file {input_file}")
