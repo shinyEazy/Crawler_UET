@@ -26,4 +26,4 @@ def load_clean_export(file_path, output_path):
     print(f"✅ Cleaned and sorted data saved to {output_path}")
 
 # Example usage:
-load_clean_export('data.xlsx', 'cleaned_data.xlsx')
+load_clean_export('articles14.xlsx', 'articles14_cleaned.xlsx')

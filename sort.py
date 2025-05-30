@@ -18,6 +18,6 @@ def sort_urls(input_file, output_file):
         print(f"Không tìm thấy file {input_file}")
 
 if __name__ == "__main__":
-    input_file = "url.txt"
-    output_file = "url2.txt"
+    input_file = "url_from_2020_v2.txt"
+    output_file = "url_from_2020_v2.txt"
     sort_urls(input_file, output_file)
